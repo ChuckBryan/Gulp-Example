@@ -1,5 +1,6 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="../features/home/index.js" />
+/// <reference path="../gulpfile.js" />
 /// <reference path="js/features/home/index.js" />
 /// <reference path="js/site.js" />
 /// <reference path="lib/bootstrap/dist/js/bootstrap.js" />

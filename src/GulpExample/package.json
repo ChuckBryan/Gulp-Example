@@ -1,0 +1,11 @@
+{
+	"version": "1.0.0",
+	"name": "gulp.example",
+	"private": true,
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-rimraf": "0.2.1",
+    "gulp-rename": "1.2.2",
+    "change-case": "3.0.1" 
+  }
+}

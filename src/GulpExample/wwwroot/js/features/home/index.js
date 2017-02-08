@@ -1,3 +1,3 @@
-﻿$(function () {
-    console.info("This is from the JS Features Folder. Document ready");
+$(function() {
+    console.info("This is from the Main Features Folder. Document ready");
 })
